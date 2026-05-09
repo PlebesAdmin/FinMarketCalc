@@ -1,9 +1,7 @@
-# FinMarketCalc
-Calculator primarily for use in financial markets, designed for Bond/Credit/Fixed Income cash desks.  It takes a Nominal size in 1000s format( 5million = 5000) multiplied by a price difference in the second field ie 99.13 - 99.10 to give a $$ cash difference
-
 FinMarketCalc - Financial Markets Calculator
 
 Layout - Designed to take up the least amount of space by fitting along the task bar.
+
 
 [N][___] [A][________________________] | [P&L][___________] | STD [32nds] [→Dec] [×10✗] [✕]
 
@@ -64,3 +62,5 @@ Checkboxes
 NOM suffixes
 `100k` = NOM  > 1000 → P&L uses 1000 (after ×10)
 `5m` or 5000  = 5000 → P&L uses 50,000
+
+
